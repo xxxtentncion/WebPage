@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First WebPage</title>
+    <link rel="stylesheet" href="CSS/main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="ttps://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/v4-shims.min.css">
+</head>
+<body>
+
+    <header class="header">
+
+        <div class="container">
+
+            <nav class="nav-wrapper">
+
+        <div class="logo"><span>Your</span> Heir</div>
+
+
+                <ul class="nav">
+                    <li class="nav__item">
+                        <a class="nav__link" href="#">Main</a>
+                    </li>
+                    <li class="nav__item">
+                        <a class="nav__link" href="#">About product</a>
+                    </li>
+                    <li class="nav__item">
+                        <a class="nav__link" href="#">Price</a>
+                    </li>
+                    <li class="nav__item">
+                        <a class="nav__link" href="#">Blog</a>
+                    </li>
+                    <li class="nav__item">
+                        <a class="nav__link" href="#">Contacts</a>
+                    </li>
+            </ul>
+            </nav>
+
+            <div class="header-content">
+                <div class="header-desc">
+
+                    <h1 class ="header__title">Human Hair</h1>
+
+                    <div class="header__text">
+
+
+                    <p>Our Wig Experts Are Licensed Cosmetologists, Professional Hair Stylists, and Wig Lovers. Produced From 100% Human Hair</p>
+
+                    </div>
+
+                    <a href="#" class ="header__btn">Make order</a>
+
+            </div>
+                        </div>
+
+        </div>
+
+    </header>
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-copyright">
+                KOPYRIGHTKOPYRIGHT
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
